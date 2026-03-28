@@ -1,0 +1,12 @@
+# .gitignore
+chroma_db/
+documentation/
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+.DS_Store
+Thumbs.db
+vaaksetu_article.html
+vaaksetu_article.txt
+malayalam_font_check.py
